@@ -65,5 +65,3 @@ plt.title("cost function versus iteration times")
 plt.xlabel("iteration times")
 plt.ylabel("cost function")
 plt.show()
-
-print(cost_function)
